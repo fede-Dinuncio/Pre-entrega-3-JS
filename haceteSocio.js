@@ -36,7 +36,6 @@ function opcionesLogueado(nombre, documento, numeroSocio) {
     <p>Documento: ${documento}</p>
     <p>Número de socio: ${numeroSocio}</p>
     <button onclick="mostrarSociosRegistrados()">Mostrar todos los socios</button>
-
     <button onclick="cerrarSesion()">Cerrar sesión</button>
   `;
 }
